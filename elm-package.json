@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "summary": "Free Code Camp challenge solutions in Elm",
+    "repository": "https://github.com/huggablemonad/fcc.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "3.0.0 <= v < 4.0.0"
+    },
+    "elm-version": "0.16.0 <= v < 0.17.0"
+}
