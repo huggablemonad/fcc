@@ -8,6 +8,7 @@
     ],
     "exposed-modules": [
         "Factorialize",
+        "LargestNumbers",
         "LongestWord",
         "Palindromes",
         "ReverseString",

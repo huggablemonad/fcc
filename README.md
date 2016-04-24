@@ -7,3 +7,4 @@ Free Code Camp challenge solutions, written in the Elm programming language.
 * [Check for Palindromes](src/basic-algorithm-scripting/Palindromes.elm)
 * [Find the Longest Word in a String](src/basic-algorithm-scripting/LongestWord.elm)
 * [Title Case a Sentence](src/basic-algorithm-scripting/TitleCase.elm)
+* [Return Largest Numbers in Arrays](src/basic-algorithm-scripting/LargestNumbers.elm)
