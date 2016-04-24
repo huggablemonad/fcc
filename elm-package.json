@@ -14,7 +14,8 @@
         "Palindromes",
         "RepeatString",
         "ReverseString",
-        "TitleCase"
+        "TitleCase",
+        "TruncateString"
     ],
     "dependencies": {
         "NoRedInk/elm-string-extra": "1.2.0 <= v < 2.0.0",

@@ -10,3 +10,4 @@ Free Code Camp challenge solutions, written in the Elm programming language.
 * [Return Largest Numbers in Arrays](src/basic-algorithm-scripting/LargestNumbers.elm)
 * [Confirm the Ending](src/basic-algorithm-scripting/ConfirmEnding.elm)
 * [Repeat a string repeat a string](src/basic-algorithm-scripting/RepeatString.elm)
+* [Truncate a string](src/basic-algorithm-scripting/TruncateString.elm)
