@@ -9,3 +9,4 @@ Free Code Camp challenge solutions, written in the Elm programming language.
 * [Title Case a Sentence](src/basic-algorithm-scripting/TitleCase.elm)
 * [Return Largest Numbers in Arrays](src/basic-algorithm-scripting/LargestNumbers.elm)
 * [Confirm the Ending](src/basic-algorithm-scripting/ConfirmEnding.elm)
+* [Repeat a string repeat a string](src/basic-algorithm-scripting/RepeatString.elm)

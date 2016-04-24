@@ -12,6 +12,7 @@
         "LargestNumbers",
         "LongestWord",
         "Palindromes",
+        "RepeatString",
         "ReverseString",
         "TitleCase"
     ],
