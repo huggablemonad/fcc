@@ -13,3 +13,4 @@ Free Code Camp challenge solutions, written in the Elm programming language.
 * [Truncate a string](src/basic-algorithm-scripting/TruncateString.elm)
 * [Chunky Monkey](src/basic-algorithm-scripting/ChunkyMonkey.elm)
 * [Slasher Flick](src/basic-algorithm-scripting/SlasherFlick.elm)
+* [Mutations](src/basic-algorithm-scripting/Mutations.elm)
