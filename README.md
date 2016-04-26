@@ -12,3 +12,4 @@ Free Code Camp challenge solutions, written in the Elm programming language.
 * [Repeat a string repeat a string](src/basic-algorithm-scripting/RepeatString.elm)
 * [Truncate a string](src/basic-algorithm-scripting/TruncateString.elm)
 * [Chunky Monkey](src/basic-algorithm-scripting/ChunkyMonkey.elm)
+* [Slasher Flick](src/basic-algorithm-scripting/SlasherFlick.elm)
