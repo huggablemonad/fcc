@@ -16,6 +16,7 @@
         "Palindromes",
         "RepeatString",
         "ReverseString",
+        "SeekAndDestroy",
         "SlasherFlick",
         "TitleCase",
         "TruncateString"
