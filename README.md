@@ -16,3 +16,4 @@ Free Code Camp challenge solutions, written in the Elm programming language.
 * [Mutations](src/basic-algorithm-scripting/Mutations.elm)
 * [Seek and Destroy](src/basic-algorithm-scripting/SeekAndDestroy.elm)
 * [Where do I belong](src/basic-algorithm-scripting/Belong.elm)
+* [Caesars Cipher](src/basic-algorithm-scripting/CaesarsCipher.elm)
