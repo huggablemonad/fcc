@@ -20,6 +20,7 @@
         "ReverseString",
         "SeekAndDestroy",
         "SlasherFlick",
+        "SumRange",
         "TitleCase",
         "TruncateString"
     ],
