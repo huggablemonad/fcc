@@ -11,6 +11,7 @@
         "CaesarsCipher",
         "ChunkyMonkey",
         "ConfirmEnding",
+        "DiffArrays",
         "Factorialize",
         "LargestNumbers",
         "LongestWord",

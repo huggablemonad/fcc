@@ -21,3 +21,4 @@ Free Code Camp challenge solutions, written in the Elm programming language.
 ### Intermediate Algorithm Scripting
 
 * [Sum All Numbers in a Range](src/intermediate-algorithm-scripting/SumRange.elm)
+* [Diff Two Arrays](src/intermediate-algorithm-scripting/DiffArrays.elm)
