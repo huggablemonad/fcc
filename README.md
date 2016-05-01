@@ -22,3 +22,4 @@ Free Code Camp challenge solutions, written in the Elm programming language.
 
 * [Sum All Numbers in a Range](src/intermediate-algorithm-scripting/SumRange.elm)
 * [Diff Two Arrays](src/intermediate-algorithm-scripting/DiffArrays.elm)
+* [Roman Numeral Converter](src/intermediate-algorithm-scripting/RomanNumerals.elm)
