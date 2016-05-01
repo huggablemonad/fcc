@@ -20,6 +20,7 @@
         "RepeatString",
         "ReverseString",
         "RomanNumerals",
+        "SearchAndReplace",
         "SeekAndDestroy",
         "SlasherFlick",
         "SumRange",
