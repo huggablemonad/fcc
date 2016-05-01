@@ -24,3 +24,4 @@ Free Code Camp challenge solutions, written in the Elm programming language.
 * [Diff Two Arrays](src/intermediate-algorithm-scripting/DiffArrays.elm)
 * [Roman Numeral Converter](src/intermediate-algorithm-scripting/RomanNumerals.elm)
 * [Search and Replace](src/intermediate-algorithm-scripting/SearchAndReplace.elm)
+* [Pig Latin](src/intermediate-algorithm-scripting/PigLatin.elm)
